@@ -10,6 +10,7 @@ AirPure Innovations is an early-stage startup developing an air purifier for the
 This project analyzes real-world Indian datasets, including Air Quality Index (AQI), health outcomes, population trends, and EV adoption, to identify high-priority markets for a new air purifier. The resulting strategy provides data-backed recommendations for an effective product, pricing, and market entry plan tailored to the Indian consumer.
 
 🔑 Key Focus Areas
+
 1.Target critical pollutants causing major health risks.
 
 2.Define essential air purifier features for users.
