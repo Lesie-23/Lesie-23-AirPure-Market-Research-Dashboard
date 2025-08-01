@@ -49,31 +49,44 @@ Health Impact - Children aged (6 -11 yrs) are most affected ,
 🎯 Target Pollutants and Health Impact
 
 PM2.5 & PM10: Prioritize filtration of fine particulate matter, the primary cause of respiratory issues, using True HEPA filters.
+
 Gaseous Pollutants & VOCs: Eliminate harmful gases from vehicles and industry with activated carbon filtration.
+
 Health Protection: Combat airborne bacteria and viruses using UV sterilization technology to reduce infection risks.
 
  ⚙️ Essential Features
  
 Multi-Stage Filtration: A system with a pre-filter, True HEPA, and activated carbon.
 Real-time Display: A clear digital interface showing AQI and PM2.5​ levels.
+
 Smart Connectivity: Wi-Fi enabled with an intuitive mobile app.
+
 Auto Mode: A feature that intelligently adjusts purification intensity based on sensor data.
+
 Filter Lifetime Indicator: An alert system for filter replacement.
+
 Child Lock: A safety feature to prevent unintended changes.
 
 3. Market Focus & R&D Innovation
    
 Key Regions: Focus on high-pollution zones (Delhi, Meerut, Faridabad, Hapur).
+
 Predictive Features: Use weather & satellite data to trigger smart responses.
+
 Seasonal Modes: Customize filters for crop burning, smog, etc.
+
 Compact Urban Design: Sleek, space-saving builds for metro homes.
+
 
 ## 📊 Market Focus & R&D Innovation
 
-- **Target Regions**: Prioritize high-pollution cities like Delhi, Meerut, Faridabad, and Hapur.
-- **Smart Predictive Tech**: Integrate weather and satellite data to anticipate and respond to pollution spikes.
-- **Seasonal Adaptability**: Develop specialized modes for smog, crop burning, and other seasonal pollutants.
-- **Urban-Friendly Design**: Create compact, modern purifiers suited for city living spaces.
+ **Target Regions**: Prioritize high-pollution cities like Delhi, Meerut, Faridabad, and Hapur.
+ 
+ **Smart Predictive Tech**: Integrate weather and satellite data to anticipate and respond to pollution spikes.
+ 
+ **Seasonal Adaptability**: Develop specialized modes for smog, crop burning, and other seasonal pollutants.
+  
+ **Urban-Friendly Design**: Create compact, modern purifiers suited for city living spaces.
 
 
 
