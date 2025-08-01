@@ -11,8 +11,11 @@ This project analyzes real-world Indian datasets, including Air Quality Index (A
 
 🔑 Key Focus Areas
 1.Target critical pollutants causing major health risks.
+
 2.Define essential air purifier features for users.
+
 3.Identify high-demand cities and estimate market size.
+
 4.Align R&D with region-specific pollution patterns.
 
 Tools stack used:-
