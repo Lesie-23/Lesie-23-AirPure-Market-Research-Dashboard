@@ -20,6 +20,7 @@ This project analyzes real-world Indian datasets, including Air Quality Index (A
 4.Align R&D with region-specific pollution patterns.
 
 Tools stack used:-
+
 1. Excel - Datasets
 
 2.Power Bi- data visualisation and data modeling, data cleaning
@@ -34,7 +35,7 @@ Tools stack used:-
 
 Behaviour Shift in Consumer purchase  - During Post- diwali and winter season when the pollution is at its worst level.
 
-Awareness among people - in Urban Areas
+Awareness among people - in Urban Areas at Moderate Level (40-50%) , low in rural areas (<20%).
 
 Policies -  NCAP  - Drop in PM10 pollutant in 131 cities, 
                     EV Promotion (FAME - II) in cites like Delhi, Pune, Benguluru has AQI improved.
