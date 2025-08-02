@@ -20,11 +20,11 @@ This project analyzes real-world Indian datasets, including Air Quality Index (A
 4.Align R&D with region-specific pollution patterns.
 
 Tools stack used:-
-1. Excel - Datasets
+ 1. Excel - Datasets
 
-2.Power Bi- data visualisation and data modeling, data cleaning
+ 2.Power Bi- data visualisation and data modeling, data cleaning
 
-3.Canva - Presentation
+ 3.Canva - Presentation
 
 ## 🧠 Key Insights:
 
