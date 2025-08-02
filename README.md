@@ -9,7 +9,7 @@ AirPure Innovations is an early-stage startup developing an air purifier for the
 
 This project analyzes real-world Indian datasets, including Air Quality Index (AQI), health outcomes, population trends, and EV adoption, to identify high-priority markets for a new air purifier. The resulting strategy provides data-backed recommendations for an effective product, pricing, and market entry plan tailored to the Indian consumer.
 
-🔑 Key Focus Areas
+🔑 Key Focus Areas:
 
 1.Target critical pollutants causing major health risks.
 
@@ -20,7 +20,6 @@ This project analyzes real-world Indian datasets, including Air Quality Index (A
 4.Align R&D with region-specific pollution patterns.
 
 Tools stack used:-
-
 1. Excel - Datasets
 
 2.Power Bi- data visualisation and data modeling, data cleaning
@@ -46,7 +45,7 @@ Health Impact - Children aged (6 -11 yrs) are most affected ,
 
 # Recommendations:-
 
-## 🎯 Target Pollutants and Health Impact
+## 🎯 Target Pollutants and Health Impact:-
 
 PM2.5 & PM10: Prioritize filtration of fine particulate matter, the primary cause of respiratory issues, using True HEPA filters.
 
@@ -54,9 +53,10 @@ Gaseous Pollutants & VOCs: Eliminate harmful gases from vehicles and industry wi
 
 Health Protection: Combat airborne bacteria and viruses using UV sterilization technology to reduce infection risks.
 
-## ⚙️ Essential Features
+## ⚙️ Essential Features:-
  
 Multi-Stage Filtration: A system with a pre-filter, True HEPA, and activated carbon.
+
 Real-time Display: A clear digital interface showing AQI and PM2.5​ levels.
 
 Smart Connectivity: Wi-Fi enabled with an intuitive mobile app.
@@ -67,7 +67,9 @@ Filter Lifetime Indicator: An alert system for filter replacement.
 
 Child Lock: A safety feature to prevent unintended changes.
 
-##  📊 Market Focus & R&D Innovation
+Affordability of product : Prices designed within a budget for every class of people.
+
+##  📊 Market Focus & R&D Innovation:-
    
 Key Regions: Focus on high-pollution zones (Delhi, Meerut, Faridabad, Hapur).
 
