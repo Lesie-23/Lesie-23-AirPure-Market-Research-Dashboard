@@ -3,7 +3,7 @@
 This is a Resume Challenge Project - 16 organised by Codebasics and Sponsored By Dataful.
 
 # Dashboard Live Link:
-https://app.powerbi.com/view?r=eyJrIjoiYWI4ZjNlZDQtY2NlYS00MWM3LTg1YTMtMTc4Mzg0NWY1MGM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6af2eff3459587bbbf1c
+https://app.powerbi.com/view?r=eyJrIjoiZjA1YjE5NmQtZGUyMy00Y2Y3LWEzNDAtYjUyNGRkMjBhYjdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 
 # Company Overview:
