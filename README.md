@@ -2,6 +2,10 @@
 
 This is a Resume Challenge Project - 16 organised by Codebasics and Sponsored By Dataful.
 
+# Dashboard Live Link:
+https://app.powerbi.com/view?r=eyJrIjoiYWI4ZjNlZDQtY2NlYS00MWM3LTg1YTMtMTc4Mzg0NWY1MGM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=6af2eff3459587bbbf1c
+
+
 # Company Overview:
 AirPure Innovations is an early-stage startup developing an air purifier for the Indian market. While the company recognizes the severe air quality crisis in India's top 14 most polluted cities, it requires a robust market analysis to validate the existence of a strong, sustained consumer demand before committing to a full-scale product launch.
 
