@@ -83,7 +83,7 @@ Seasonal Modes: Customize filters for crop burning, smog, etc.
 Compact Urban Design: Sleek, space-saving builds for metro homes.
 
 
-  
+ ## Linkedin Post: https://www.linkedin.com/feed/update/urn:li:activity:7358185120467509248/?originTrackingId=jZJDmx34SdyOtjWdobleIA%3D%3D
 
 
 
