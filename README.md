@@ -83,9 +83,9 @@ Compact Urban Design: Sleek, space-saving builds for metro homes.
 
 ## 🔗 Link:
 
-## 📁 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7358185120467509248/?originTrackingId=jZJDmx34SdyOtjWdobleIA%3D%3D)
+## 💼 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7358185120467509248/?originTrackingId=jZJDmx34SdyOtjWdobleIA%3D%3D)
 
-## [Dashboard Live Link](https://app.powerbi.com/groups/me/reports/d24f6683-0c3b-472f-85a8-ea44b7445927/6af2eff3459587bbbf1c?experience=power-bi)
+## 📊[Dashboard Live Link](https://app.powerbi.com/groups/me/reports/d24f6683-0c3b-472f-85a8-ea44b7445927/6af2eff3459587bbbf1c?experience=power-bi)
 
 
 
